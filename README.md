@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-<p>Diligent Computer Engineer with a Master’s in Artificial Intelligence seeking opportunities to contribute to real-life projects! My specialties include programming in Python, C++, and C#, as well as developing machine learning models with PyTorch and TensorFlow. 🌟 <br>
+<p>Diligent Computer Science Engineer with a Master’s in Artificial Intelligence seeking opportunities to contribute to real-life projects! My specialties include programming in a myriad of languages, such as Python, C++, and C#, as well as developing machine learning models with PyTorch and TensorFlow. 🌟 <br>
 
 These technical skills stem from my time studying at the UAB, where I became curious about many topics related to artificial intelligence, including machine learning and computer vision. This innate curiosity led me to complete the joint master’s in AI, organized by the UPC, the UB, and the URV. Not only did I have the opportunity to explore many novel topics in the field, but I also learned in an international environment in the process. From supervised and unsupervised learning to reinforcement learning, I hope to have a positive impact in any and all future projects! <br>
 
