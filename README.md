@@ -8,7 +8,7 @@
 
 
 ## 🚀 About Me
-<p>Diligent Computer Science Engineer with a Master’s in Artificial Intelligence seeking opportunities to contribute to real-life projects! My specialties include programming in Python, C++, and C#, as well as developing machine learning models with PyTorch and TensorFlow. 🌟 </p>
+<p>Diligent Computer Science Engineer with a Master’s in Artificial Intelligence seeking opportunities to contribute to real-life projects! My specialties include programming in Python, C++, and C#, as well as developing machine learning models with PyTorch and TensorFlow 🌟 </p>
 <br>
 
 ## 🔗 Connect With Me!
